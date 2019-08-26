@@ -5,3 +5,5 @@ generates:
   generated/output.ts:
     plugins:
       - "typescript"
+watch:
+  - schema.js
