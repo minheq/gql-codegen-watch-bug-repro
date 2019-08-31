@@ -1,5 +1,10 @@
 # GraphQL Codegen Watch Reproduction
 
+## STATUS: FIXED
+Fixed in https://github.com/ardatan/graphql-toolkit/commit/7d5b56bfa1e02a0375cc248cbd8c7374e38e4264
+
+## Description
+
 `graphql-codegen --watch` does not work with `schema` exported from JS file
 
 ## Steps:
